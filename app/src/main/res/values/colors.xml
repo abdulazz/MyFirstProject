@@ -3,7 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="putih">#ffffff</colorname>
+    <color name="putih">#ffffff</color>
+    <color name="hitam">#000000</color>
     <color name="pink">#f06292</color>
     <color name="lime">#fff59d</color>
     <color name="grey">#eeeeee</color>

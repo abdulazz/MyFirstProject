@@ -14,9 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int a =10;
-        int b = 20;
-
         Button btnPindah = findViewById(R.id.btn);
         btnPindah.setOnClickListener(new View.OnClickListener() {
             @Override
